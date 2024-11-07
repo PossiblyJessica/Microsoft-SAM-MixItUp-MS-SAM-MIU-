@@ -1,0 +1,5 @@
+Import SAM.miucommand into your Twitch channel point redeem/chat command
+If you are using Twitch channel points, make sure the redeem has "Require Viewer to Enter Text" enabled, it's a slider that is under your channel point description
+If you are using chat commands, change the $message in the "CHANGE IF NEEDED" identifier to $allargs so SAM doesn't read the command action
+Use Pitch/Speed/Mouth/Throat to change how SAM sounds, the defaults are 72/64/128/128
+Enjoy!
